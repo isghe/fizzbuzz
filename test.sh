@@ -1,2 +1,1 @@
-node app.js | jq '.[].fizzBuzz35' | jq -s 'join (", ")' | sha256sum
-
+node app.js | jq 'join (", ")' | sha256sum --tag
