@@ -14,7 +14,7 @@ const main = () => {
 		result.push(output);
 	}
 
-	console.log(result);
+	console.log(JSON.stringify(result));
 };
 
 main();
