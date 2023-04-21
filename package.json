@@ -10,5 +10,8 @@
     "fizzbuzz"
   ],
   "author": "Isidoro Ghezzi, isidoro.ghezzi@icloud.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xo": "^0.54.1"
+  }
 }
