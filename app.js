@@ -5,9 +5,7 @@ const boolToInteger = Number;
 const fizzBuzz = number => [
 	['FizzBuzz', 'Fizz'],
 	['Buzz', number],
-]
-	[boolToInteger(mod(number, 3) !== 0)]
-	[boolToInteger(mod(number, 5) !== 0)];
+][boolToInteger(mod(number, 3) !== 0)][boolToInteger(mod(number, 5) !== 0)];
 
 const main = () => {
 	const result = [];
