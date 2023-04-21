@@ -1,6 +1,6 @@
 # FizzBuzz
 
-`fizzbuzz` with a `decision table` (no `if then else`)
+`fizzbuzz` with a `decision table` (no `if then else`) in just ten rows.
 
 ## Install
 ```shell
